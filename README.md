@@ -27,8 +27,8 @@ Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.
 # Other
 
 - Aplikacja do automatycznego dodawania ogłoszeń (repo w przygotowaniu)
-  - Dodawanie ogłoseń przez rest-api,  
-  - Dodawanie ogłoseń za pomocą łamania captchy,  
+  - Dodawanie ogłoszeń przez rest-api,  
+  - Dodawanie ogłoszeń za pomocą łamania captchy,  
   - Losowanie słów kluczowych eg. {misto} => Warszawa,  
   - Python / Qt / Selenium / AntiCaptcha 
   
