@@ -18,6 +18,11 @@ Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.
   - Django / Rest API / django-rest-api      
   
   
+- Ogłoszenia przewozu pojazdów (z mapą)
+  - https://transport-f2.herokuapp.com/
+  - Django / Mapy openstreetmap
+  
+  
 # Mobile
 
 - Aplikacja do sterowania pojazdem (na potrzeby projketu Legendary Rover)
@@ -32,3 +37,12 @@ Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.
   - Losowanie słów kluczowych eg. {misto} => Warszawa,  
   - Python / Qt / Selenium / AntiCaptcha 
   
+  
+ # Zrelizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienie kodu
+- Strona wizytówka + projekt wizytówki - branża budowlana ( HTML / CSS / Bootstrap)
+- Implementacja alogrytmu KNN od zera (Pyton)
+- Program do detekcji uszkodzeń na podstawe danych czasowych (Uczenie maszynowe)
+- Program do klasyfikacji na podstawie danych agregowanych (Uczenie maszynowe)
+- Program do optymalizacji doboru klasyfikatora (Uczenie maszynowe)
+- Realizacja bibliotek funkcji logicznych (około 30 funkcji), oraz aplikacja okienkowa do obliczeń (Python, Qt, metaprogramowanie )
+
