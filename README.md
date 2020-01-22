@@ -1,6 +1,7 @@
 # Portfolio
 
 Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.  
+Wizytówka w przygotowaniu: http://80.211.251.12/
 
 
 # WEB
@@ -40,7 +41,7 @@ Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.
   
  # Zrelizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienie kodu
 - Strona wizytówka + projekt wizytówki - branża budowlana ( HTML / CSS / Bootstrap)
-- Implementacja alogrytmu KNN od zera (Pyton)
+- Implementacja alogrytmu uczenia maszynowego KNN od zera (Pyton)
 - Program do detekcji uszkodzeń na podstawe danych czasowych (Uczenie maszynowe)
 - Program do klasyfikacji na podstawie danych agregowanych (Uczenie maszynowe)
 - Program do optymalizacji doboru klasyfikatora (Uczenie maszynowe)
