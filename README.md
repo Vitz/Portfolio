@@ -45,4 +45,5 @@ Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.
 - Program do klasyfikacji na podstawie danych agregowanych (Uczenie maszynowe)
 - Program do optymalizacji doboru klasyfikatora (Uczenie maszynowe)
 - Realizacja bibliotek funkcji logicznych (około 30 funkcji), oraz aplikacja okienkowa do obliczeń (Python, Qt, metaprogramowanie )
+- Kilka prostych funkcji do obsługi ciągów znakowych (Python, Wyrażenie regularn)
 
