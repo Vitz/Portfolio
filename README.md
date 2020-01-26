@@ -1,8 +1,7 @@
 # Portfolio
 
 Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.  
-Wizytówka w przygotowaniu: http://80.211.251.12/
-
+Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 
 # WEB
 
