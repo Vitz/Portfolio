@@ -38,7 +38,7 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
   - Python / Qt / Selenium / AntiCaptcha 
   
   
- # Zrelizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienie kodu
+ # Zrealizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienie kodu
 - Strona wizytówka + projekt wizytówki - branża budowlana ( HTML / CSS / Bootstrap)
 - Implementacja alogrytmu uczenia maszynowego KNN od zera (Pyton)
 - Program do detekcji uszkodzeń na podstawe danych czasowych (Uczenie maszynowe)
