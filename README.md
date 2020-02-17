@@ -41,11 +41,11 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
  # Zrealizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienia kodu
 - Strona wizytówka + projekt wizytówki - branża budowlana ( HTML / CSS / Bootstrap)
 - Implementacja alogrytmu uczenia maszynowego KNN od zera (Pyton)
-- Program do detekcji uszkodzeń na podstawe danych czasowych (Uczenie maszynowe)
-- Program do klasyfikacji na podstawie danych agregowanych (Uczenie maszynowe)
-- Program do optymalizacji doboru klasyfikatora (Uczenie maszynowe)
+- Program do detekcji uszkodzeń na podstawe danych czasowych (Uczenie maszynowe, Python)
+- Program do klasyfikacji na podstawie danych agregowanych (Uczenie maszynowe, Python)
+- Program do optymalizacji doboru klasyfikatora (Uczenie maszynowe, Python)
 - Realizacja bibliotek funkcji logicznych (około 30 funkcji), oraz aplikacja okienkowa do obliczeń (Python, Qt, metaprogramowanie )
-- Kilka prostych funkcji do obsługi ciągów znakowych (Python, Wyrażenie regularn)
-- Kilka funkcji związanych ze statystyką  (R) 
+- Kilka prostych funkcji do obsługi ciągów znakowych (Wyrażenie regularn, Python)
+- Kilka funkcji związanych ze statystyką  (Statystyka, R) 
 - Program do segmentacji obrazu - implementacja binaryzacji oraz zliczania obiektów od zera (.NET Framework, C#)
-
+- Program klasyfikujący dane wykorzystując ocenę jakości cech (Uczenie maszynowe, R)
