@@ -48,4 +48,4 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 - Kilka prostych funkcji do obsługi ciągów znakowych (Wyrażenia regularn, Python)
 - Kilka funkcji związanych ze statystyką  (Statystyka, R) 
 - Program do segmentacji obrazu - implementacja binaryzacji oraz zliczania obiektów, alorytmy pisane od zera (.NET Framework, C#)
-- Program klasyfikujący dane wykorzystując ocenę jakości cech (Uczenie maszynowe, R)
+- Program klasyfikujący dane wykorzystując grupowanie cech na podstawie oceny ich jakości (Uczenie maszynowe, R)
