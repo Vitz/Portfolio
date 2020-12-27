@@ -22,7 +22,7 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 
 # WEB
 
-- Rekurencyjna struktura drzewiasta
+- Rekurencyjna struktura drzewiasta (OBECNIE NIE DZIAŁA BD, DOSTAWCA USUNĄŁ)  
   - https://github.com/Vitz/TreeStructure
   - ASP.NET CORE 3.0 / MSSQL / JSON 
 
@@ -33,8 +33,7 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 - Backend dla bazy filmowej
   - https://github.com/Vitz/app-movies-rest-api
   - Django / Rest API / django-rest-api      
-  
-  
+    
 - Ogłoszenia przewozu pojazdów (z mapą)
   - https://transport-f2.herokuapp.com/
   - Django / Mapy openstreetmap
@@ -42,7 +41,7 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
   
 # Mobile
 
-- Aplikacja do sterowania pojazdem (na potrzeby projketu Legendary Rover)
+- Aplikacja do sterowania pojazdem (na potrzeby uczelnianego projektu Legendary Rover)
   - https://github.com/Vitz/MarsRoverBT-android
   - JAVA / Android Studio / BlueTooth / 
   
@@ -53,5 +52,10 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
   - Dodawanie ogłoszeń za pomocą łamania captchy,  
   - Losowanie słów kluczowych eg. {misto} => Warszawa,  
   - Python / Qt / Selenium / AntiCaptcha 
+    
+ - Aplikacja do masowego usuwania metadanych z obrazów oraz dodawania ręcznie geolokalizacji (repo w przygotowaniu)  
+ - Hosting obrazów z API, kompresowanie w locie (repo w przygotowaniu)  
+
+
   
   
