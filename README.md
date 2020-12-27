@@ -3,7 +3,7 @@
 Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.  
 Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 
- # Zrealizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienia kodu
+ # Zrealizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienia kodu - sortowane od najstarszych
 - Strona wizytówka + projekt wizytówki - branża budowlana ( HTML / CSS / Bootstrap)
 - Implementacja algorytmu uczenia maszynowego KNN od zera (Pyton)
 - Program do detekcji uszkodzeń na podstawę danych czasowych (Uczenie maszynowe, Python)
@@ -15,7 +15,10 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 - Program do segmentacji obrazu - implementacja binaryzacji oraz zliczania obiektów, algorytmy pisane od zera (.NET Framework, C#)
 - Program klasyfikujący dane wykorzystując grupowanie cech na podstawie oceny ich jakości (Uczenie maszynowe, R,  konstruktywna indukcja cech)
 - Przegląd zbioru ze znalezieniem reguł agregacyjnych (R)
-- Przygotowanie sklepu z ~350 produktami dla klienta z Norwegii (Wordpress, WooCommerce, CSS).
+- Przygotowanie e-sklepu z ~350 produktami dla klienta z Norwegii (Wordpress, WooCommerce, CSS)
+- Przygotowanie e-sklepu z ~800 produktami dla klienta z Polski (Wordpress, WooCommerce, CSS, PHP)
+- Predykcja zapotrzebowania paliw na rok 2030 (Python, Jupyter, ARMA)
+
 
 # WEB
 
