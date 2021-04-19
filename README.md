@@ -18,6 +18,8 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 - Przygotowanie e-sklepu z ~350 produktami dla klienta z Norwegii (Wordpress, WooCommerce, CSS)
 - Przygotowanie e-sklepu z ~800 produktami dla klienta z Polski (Wordpress, WooCommerce, CSS, PHP)
 - Predykcja zapotrzebowania paliw na rok 2030 (Python, Jupyter, ARMA)
+- Przetworzenie 1000 produktów do sklepu online (Python, Woocomerce)
+- /obecnie wiele więcej/
 
 
 # WEB
