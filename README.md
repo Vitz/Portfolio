@@ -1,6 +1,6 @@
 # Portfolio
 
-Niniejszy plik jest miejscem zbiorczym przeglądu repozytoriów.  
+Niniejszy plik jest również miejscem zbiorczym przeglądu repozytoriów.  
 Wizytówka w przygotowaniu: www.patrykorganisciak.pl
 
  # Zrealizowane zlecenia (głownie z: freelancer.com / upwork.com /  useme.eu) bez możliwości udostępnienia kodu - sortowane od najstarszych
@@ -49,14 +49,9 @@ Wizytówka w przygotowaniu: www.patrykorganisciak.pl
   
 # Other
 
-- Aplikacja do automatycznego dodawania ogłoszeń (repo w przygotowaniu)
-  - Dodawanie ogłoszeń przez rest-api,  
-  - Dodawanie ogłoszeń za pomocą łamania captchy,  
-  - Losowanie słów kluczowych eg. {misto} => Warszawa,  
-  - Python / Qt / Selenium / AntiCaptcha 
-    
- - Aplikacja do masowego usuwania metadanych z obrazów oraz dodawania ręcznie geolokalizacji (repo w przygotowaniu)  
- - Hosting obrazów z API, kompresowanie w locie (repo w przygotowaniu)  
+https://www.e-la.fr/ serwis do śledzenia fraz w Google
+
+http://img2url.site/ hosting na własne potrzeby sterowany za pomocą API
 
 
   
